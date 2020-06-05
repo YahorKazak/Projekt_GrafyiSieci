@@ -1,0 +1,14 @@
+C:\Users\egork\OneDrive\Рабочий стол\Project\Project\bin\Debug\Project.exe.config
+C:\Users\egork\OneDrive\Рабочий стол\Project\Project\bin\Debug\Project.exe
+C:\Users\egork\OneDrive\Рабочий стол\Project\Project\bin\Debug\Project.pdb
+C:\Users\egork\OneDrive\Рабочий стол\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\egork\OneDrive\Рабочий стол\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\egork\OneDrive\Рабочий стол\Project\Project\obj\Debug\Project.exe
+C:\Users\egork\OneDrive\Рабочий стол\Project\Project\obj\Debug\Project.pdb
+C:\Users\alena\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\alena\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\alena\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\alena\Desktop\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\alena\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\alena\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\alena\Desktop\Project\Project\obj\Debug\Project.pdb

@@ -1,0 +1,23 @@
+C:\Users\egork\OneDrive\Рабочий стол\ProjectGrafyiSieci\Średnica\bin\Debug\Średnica.exe.config
+C:\Users\egork\OneDrive\Рабочий стол\ProjectGrafyiSieci\Średnica\bin\Debug\Średnica.exe
+C:\Users\egork\OneDrive\Рабочий стол\ProjectGrafyiSieci\Średnica\bin\Debug\Średnica.pdb
+C:\Users\egork\OneDrive\Рабочий стол\ProjectGrafyiSieci\Średnica\bin\Debug\Średnica.bl.dll
+C:\Users\egork\OneDrive\Рабочий стол\ProjectGrafyiSieci\Średnica\bin\Debug\Średnica.bl.pdb
+C:\Users\egork\OneDrive\Рабочий стол\ProjectGrafyiSieci\Średnica\obj\Debug\Średnica.csprojAssemblyReference.cache
+C:\Users\egork\OneDrive\Рабочий стол\ProjectGrafyiSieci\Średnica\obj\Debug\Średnica.Form1.resources
+C:\Users\egork\OneDrive\Рабочий стол\ProjectGrafyiSieci\Średnica\obj\Debug\Średnica.Properties.Resources.resources
+C:\Users\egork\OneDrive\Рабочий стол\ProjectGrafyiSieci\Średnica\obj\Debug\Średnica.csproj.GenerateResource.cache
+C:\Users\egork\OneDrive\Рабочий стол\ProjectGrafyiSieci\Średnica\obj\Debug\Średnica.csproj.CoreCompileInputs.cache
+C:\Users\egork\OneDrive\Рабочий стол\ProjectGrafyiSieci\Średnica\obj\Debug\Średnica.csproj.CopyComplete
+C:\Users\egork\OneDrive\Рабочий стол\ProjectGrafyiSieci\Średnica\obj\Debug\Średnica.exe
+C:\Users\egork\OneDrive\Рабочий стол\ProjectGrafyiSieci\Średnica\obj\Debug\Średnica.pdb
+C:\Users\alena\Desktop\ProjectGrafyiSieci\Średnica\obj\Debug\Średnica.exe
+C:\Users\alena\Desktop\ProjectGrafyiSieci\Średnica\obj\Debug\Średnica.pdb
+C:\Users\alena\Desktop\ProjectGrafyiSieci\Średnica\bin\Debug\Średnica.exe.config
+C:\Users\alena\Desktop\ProjectGrafyiSieci\Średnica\bin\Debug\Średnica.exe
+C:\Users\alena\Desktop\ProjectGrafyiSieci\Średnica\bin\Debug\Średnica.pdb
+C:\Users\alena\Desktop\ProjectGrafyiSieci\Średnica\obj\Debug\Średnica.csprojAssemblyReference.cache
+C:\Users\alena\Desktop\ProjectGrafyiSieci\Średnica\obj\Debug\Średnica.Form1.resources
+C:\Users\alena\Desktop\ProjectGrafyiSieci\Średnica\obj\Debug\Średnica.Properties.Resources.resources
+C:\Users\alena\Desktop\ProjectGrafyiSieci\Średnica\obj\Debug\Średnica.csproj.GenerateResource.cache
+C:\Users\alena\Desktop\ProjectGrafyiSieci\Średnica\obj\Debug\Średnica.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\egork\OneDrive\Рабочий стол\Project\PD\bin\Debug\PD.exe.config
+C:\Users\egork\OneDrive\Рабочий стол\Project\PD\bin\Debug\PD.exe
+C:\Users\egork\OneDrive\Рабочий стол\Project\PD\bin\Debug\PD.pdb
+C:\Users\egork\OneDrive\Рабочий стол\Project\PD\obj\Debug\PD.csprojAssemblyReference.cache
+C:\Users\egork\OneDrive\Рабочий стол\Project\PD\obj\Debug\PD.csproj.CoreCompileInputs.cache
+C:\Users\egork\OneDrive\Рабочий стол\Project\PD\obj\Debug\PD.exe
+C:\Users\egork\OneDrive\Рабочий стол\Project\PD\obj\Debug\PD.pdb
